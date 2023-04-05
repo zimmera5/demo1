@@ -1,6 +1,9 @@
 package com.example.demo1;
 import java.util.Scanner;
 
+
+//this is a change test
+
 public class SafeInput {
 
     public static String getNonZeroLenString(Scanner pipe, String ham){
